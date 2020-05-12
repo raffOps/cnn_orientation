@@ -1,0 +1,22 @@
+name: tf2
+ 
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - jupyter
+    - tensorflow-gpu=2.1
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - jupyter
+    - matplotlib
+    - seaborn
+    - scikit-image
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
